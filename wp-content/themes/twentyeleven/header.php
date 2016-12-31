@@ -66,7 +66,13 @@
 	wp_head();
 ?>
 </head>
-
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+  (adsbygoogle = window.adsbygoogle || []).push({
+    google_ad_client: "ca-pub-1933147802045737",
+    enable_page_level_ads: true
+  });
+</script>
 <body <?php body_class(); ?>>
 <div id="page" class="hfeed">
 	<header id="branding" role="banner">
